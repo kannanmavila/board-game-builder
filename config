@@ -38,4 +38,4 @@ count = 20
 
 [[demon-lair]]
 sprite = ./images/demon_lair.jpg
-count = 9
+count = 9 # 4 Pretas, 3 Yakshis and 2 Vetalas
