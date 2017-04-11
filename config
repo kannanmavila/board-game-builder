@@ -10,7 +10,7 @@ tile_height = 30
 
 [[turf]]
 sprite = ./images/turf.jpg
-count = 253
+count = 253 # 200 in real game, as the scaffolding has empty tiles
 
 [[one-walled-turf]]
 sprite = ./images/one_walled_turf.jpg
