@@ -1,0 +1,41 @@
+# Config file for game builder
+
+[board]
+width = 21
+height = 21
+tile_width = 30
+tile_height = 30
+
+[tiles]
+
+[[turf]]
+sprite = ./images/turf.jpg
+count = 253
+
+[[one-walled-turf]]
+sprite = ./images/one_walled_turf.jpg
+count = 100
+
+[[two-walled-turf]]
+sprite = ./images/two_walled_turf.jpg
+count = 30
+
+[[three-walled-turf]]
+sprite = ./images/three_walled_turf.jpg
+count = 3
+
+[[water]]
+sprite = ./images/water.jpg
+count = 40
+
+[[treasure]]
+sprite = ./images/treasure.jpg
+count = 15
+
+[[trap]]
+sprite = ./images/trap.jpg
+count = 20
+
+[[demon-lair]]
+sprite = ./images/demon_lair.jpg
+count = 9
