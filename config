@@ -1,16 +1,17 @@
 # Config file for game builder
 
+# The board
 [board]
 width = 21
 height = 21
-tile_width = 30
-tile_height = 30
+tile-width = 30
+tile-height = 30
 
+# Variable tiles
 [tiles]
-
 [[turf]]
 sprite = ./images/turf.jpg
-count = 253 # 200 in real game, as the scaffolding has empty tiles
+count = 200
 
 [[one-walled-turf]]
 sprite = ./images/one_walled_turf.jpg
@@ -38,4 +39,4 @@ count = 20
 
 [[demon-lair]]
 sprite = ./images/demon_lair.jpg
-count = 9 # 4 Pretas, 3 Yakshis and 2 Vetalas
+count = 13 # 7 Pretas, 4 Yakshis and 2 Vetalas
